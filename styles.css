@@ -1,0 +1,29 @@
+tr,td,th{
+   padding:10px 40px;
+  border:1px solid white;
+  color:white;
+  margin:50px;
+}
+.table{
+    margin-left: 425px; 
+}
+ img{
+     margin-top: 50px;
+     margin-bottom:20px;
+ }
+ body{
+    background-color: black;
+    opacity: 0.9;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
